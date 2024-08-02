@@ -1,10 +1,7 @@
 Dijkstra-Travel-Planner
 =======================
 
-Sanjay Nair
-University of Florida: Spring 2013
-Department of Computer Science and Engineering
-COP3530: Data Structures and Algorithms
-Project 4
-
-A travel planner that calculates the optimal travel route by plane or bus based on Dijkstra's famous graph algorithm
+	•	Efficient Pathfinding: Finds the shortest path from a source node to all other nodes in a weighted graph.
+	•	Customizable Graph Input: Supports user-defined graphs with adjustable weights.
+	•	Visualization: (Optional) Visual representation of the graph and the shortest path.
+	•	Modular Code: Clean, modular, and well-documented code for easy understanding and modification.
